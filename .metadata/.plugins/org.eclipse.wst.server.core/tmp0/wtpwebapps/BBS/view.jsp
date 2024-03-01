@@ -43,7 +43,9 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
              </button>
-             <a class="navbar-brand" href="main.jsp">JSP 게시판 웹사이트</a>
+             <a class="navbar-brand" href="main.jsp" style="height: 40px; margin-top: -5px;">
+    			<img src="images/logo1.png" alt="BANDNOTE Logo" style="width: auto; height: 35px">
+			</a>
         </div>
         
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
