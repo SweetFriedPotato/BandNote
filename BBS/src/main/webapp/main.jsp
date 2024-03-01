@@ -28,7 +28,9 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
              </button>
-             <a class="navbar-brand" href="main.jsp">B A N D N O T E</a>
+             <a class="navbar-brand" href="main.jsp" style="height: 40px; margin-top: -5px;">
+    			<img src="images/logo1.png" alt="BANDNOTE Logo" style="width: auto; height: 35px">
+			</a>
         </div>
         
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -87,13 +89,13 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="item active">
-					<img src="images/1.jpg">
+					<img src="images/catGuitar.jpeg">
 				</div>
 				<div class="item">
-					<img src="images/2.jpg">
+					<img src="images/catGuitar2.png">
 				</div>
 				<div class="item">
-					<img src="images/3.jpg">
+					<img src="images/catGuitar3.jpeg">
 				</div>
 			</div>
 			<a class="left carousel-control" href="#myCarousel" data-slide="prev">
