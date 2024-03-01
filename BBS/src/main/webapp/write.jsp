@@ -9,7 +9,7 @@
 <meta name="viewport" content="width-device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/custom.css">
-<title>JSP 게시판 웹 사이트</title>
+<title>B A N D N O T E</title>
 </head>
 <body>
 	<%
@@ -28,7 +28,7 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
              </button>
-             <a class="navbar-brand" href="main.jsp">JSP 게시판 웹사이트</a>
+             <a class="navbar-brand" href="main.jsp">B A N D N O T E</a>
         </div>
         
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

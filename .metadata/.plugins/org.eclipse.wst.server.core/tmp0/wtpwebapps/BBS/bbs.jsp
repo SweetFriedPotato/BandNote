@@ -11,7 +11,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width-device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<title>JSP 게시판 웹 사이트</title>
+<title>B A N D N O T E</title>
 <style type="text/css">
 	a, a:hover{
 		color: #000000;
@@ -41,7 +41,7 @@
              <span class="icon-bar"></span>
              <span class="icon-bar"></span>
              </button>
-             <a class="navbar-brand" href="main.jsp">JSP 게시판 웹사이트</a>
+             <a class="navbar-brand" href="main.jsp">B A N D N O T E</a>
         </div>
         
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
