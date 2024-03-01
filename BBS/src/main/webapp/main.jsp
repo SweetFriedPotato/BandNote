@@ -89,13 +89,13 @@
 			</ol>
 			<div class="carousel-inner">
 				<div class="item active">
-					<img src="images/catGuitar.jpeg">
+					<img src="images/catGuitar.jpeg" alt="explain1">
 				</div>
 				<div class="item">
-					<img src="images/catGuitar2.png">
+					<img src="images/catGuitar2.png" alt="explain2">
 				</div>
 				<div class="item">
-					<img src="images/catGuitar3.jpeg">
+					<img src="images/catGuitar3.jpeg" alt="explain3">
 				</div>
 			</div>
 			<a class="left carousel-control" href="#myCarousel" data-slide="prev">
