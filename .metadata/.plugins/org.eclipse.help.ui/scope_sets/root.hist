@@ -1,0 +1,6 @@
+#Tue Feb 06 16:57:00 KST 2024
+__DEFAULT__=false
+expression=root
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true
